@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Rent a server (free trial)",
+        "url": "https://www.digitalocean.com/?refcode=f560e3d9d252",
+        "icon":  {
+            "style": "simple-icons",
+            "name": "digitalocean"
+        }
+    },
+    {
+        "name": "Donate using PayPal",
+        "url": "https://liberapay.com/bubblineyuri",
+        "icon":  {
+            "style": "simple-icons",
+            "name": "paypal"
+        }
+    },
+    {
+        "name": "Donate using Stripe",
+        "url": "https://donate.stripe.com/9AQg1BbUk5tVa7mdQQ",
+        "icon":  {
+            "style": "simple-icons",
+            "name": "stripe"
+        }
+    },
+    {
+        "name": "Discord",
+        "url": "https://discord.gg/feNpZtbeWP",
+        "icon": {
+            "style": "simple-icons",
+            "name": "discord"
+        }
+    },
+    {
+        "name": "Support e-mail",
+        "url": "mailto:support@koyu.space",
+        "icon": {
+            "style": "fa",
+            "name": "envelope"
+        }
+    },
+    {
+        "name": "ZeCircle",
+        "url": "https://zecircle.xyz",
+        "icon": {
+            "style": "fa",
+            "name": "gamepad"
+        }
+    },
+    {
+        "name": "Uptime",
+        "url": "https://up.koyu.space",
+        "icon": {
+            "style": "fa",
+            "name": "dashboard"
+        }
+    },
+    {
+        "name": "Webmail",
+        "url": "https://mail.koyu.space",
+        "icon": {
+            "style": "fa",
+            "name": "envelope"
+        }
+    },
+    {
+        "name": "Cloud",
+        "url": "https://cloud.koyu.space",
+        "icon": {
+            "style": "fa",
+            "name": "cloud"
+        }
+    }
+]

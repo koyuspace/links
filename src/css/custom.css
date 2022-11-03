@@ -1,0 +1,23 @@
+:root {
+    --accent: #fe53e1;
+    --bg: #223;
+    --accent-bg: #112;
+}
+
+svg {
+    height: 24px;
+    vertical-align: middle;
+}
+
+body {
+    text-align: center;
+}
+
+td:first-child {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
