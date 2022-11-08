@@ -57,7 +57,7 @@
     },
     {
         "name": "Webmail",
-        "url": "https://mail.koyu.space",
+        "url": "https://mailbox.org",
         "icon": {
             "style": "fa",
             "name": "envelope"
