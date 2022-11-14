@@ -24,6 +24,14 @@
         }
     },
     {
+        "name": "Donate using OpenCollective",
+        "url": "https://opencollective.com/koyuspace",
+        "icon":  {
+            "style": "simple-icons",
+            "name": "opencollective"
+        }
+    },
+    {
         "name": "Discord",
         "url": "https://discord.gg/feNpZtbeWP",
         "icon": {
