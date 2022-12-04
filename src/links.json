@@ -48,14 +48,6 @@
         }
     },
     {
-        "name": "ZeCircle",
-        "url": "https://zecircle.xyz",
-        "icon": {
-            "style": "fa",
-            "name": "gamepad"
-        }
-    },
-    {
         "name": "Uptime",
         "url": "https://up.koyu.space",
         "icon": {
