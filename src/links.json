@@ -56,6 +56,22 @@
         }
     },
     {
+        "name": "Jitsi",
+        "url": "https://jitsi.koyu.space",
+        "icon": {
+            "style": "simple-icons",
+            "name": "jitsi"
+        }
+    },
+    {
+        "name": "Minecraft",
+        "url": "https://minecraftpocket-servers.com/server/121285/",
+        "icon": {
+            "style": "simple-icons",
+            "name": "minecraft"
+        }
+    },
+    {
         "name": "Webmail",
         "url": "https://mailbox.org",
         "icon": {
