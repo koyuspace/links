@@ -8,11 +8,11 @@
         }
     },
     {
-        "name": "Discord",
-        "url": "https://discord.gg/feNpZtbeWP",
+        "name": "Matrix",
+        "url": "https://matrix.to/#/#koyu.space:mozilla.org",
         "icon": {
             "style": "simple-icons",
-            "name": "discord"
+            "name": "matrix"
         }
     },
     {
