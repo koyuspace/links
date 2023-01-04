@@ -8,6 +8,14 @@
         }
     },
     {
+        "name": "Leonie's personal website",
+        "url": "https://web.koyu.space",
+        "icon": {
+            "style": "mdi",
+            "name": "earth"
+        }
+    },
+    {
         "name": "Matrix",
         "url": "https://matrix.to/#/#koyu.space:mozilla.org",
         "icon": {
