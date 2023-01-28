@@ -24,6 +24,22 @@
         }
     },
     {
+        "name": "Shop",
+        "url": "https://shop.koyu.space",
+        "icon": {
+            "style": "bi",
+            "name": "cart-fill"
+        }
+    },
+    {
+        "name": "F-Droid",
+        "url": "https://fdroid.koyu.space",
+        "icon": {
+            "style": "simple-icons",
+            "name": "f-droid"
+        }
+    },
+    {
         "name": "Support e-mail",
         "url": "mailto:support@koyu.space",
         "icon": {
