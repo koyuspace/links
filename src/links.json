@@ -56,6 +56,14 @@
         }
     },
     {
+        "name": "ZeCircle",
+        "url": "https://zecircle.xyz",
+        "icon": {
+            "style": "mdi",
+            "name": "server-network"
+        }
+    },
+    {
         "name": "Minecraft",
         "url": "https://minecraftpocket-servers.com/server/121285/",
         "icon": {
@@ -69,14 +77,6 @@
         "icon": {
             "style": "fa",
             "name": "envelope"
-        }
-    },
-    {
-        "name": "Cloud",
-        "url": "https://cloud.koyu.space",
-        "icon": {
-            "style": "fa",
-            "name": "cloud"
         }
     }
 ]
