@@ -24,6 +24,22 @@
         }
     },
     {
+        "name": "Matrix server",
+        "url": "https://matriux.koyu.space",
+        "icon": {
+            "style": "mdi",
+            "name": "server"
+        }
+    },
+    {
+        "name": "Mumble",
+        "url": "https://mumble.koyu.space",
+        "icon": {
+            "style": "mdi",
+            "name": "microphone"
+        }
+    },
+    {
         "name": "Shop",
         "url": "https://shop.koyu.space",
         "icon": {
