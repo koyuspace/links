@@ -40,6 +40,14 @@
         }
     },
     {
+        "name": "Rallly",
+        "url": "https://rallly.koyu.space",
+        "icon": {
+            "style": "mdi",
+            "name": "vote"
+        }
+    },
+    {
         "name": "Shop",
         "url": "https://shop.koyu.space",
         "icon": {
